@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to develop a machine learning model to recommend one of two tariffs, "Smart" or "Ultra," for customers of the mobile operator "Megaline." The company has identified that many clients are still using outdated tariffs, and they aim to analyze customer behavior to suggest a new tariff plan. The data provided includes customer behavior for those who have already switched to these new tariffs. Your task is to build a classification model that maximizes accuracy, achieving at least 0.75 on the test set.
+The goal of this project is to develop a machine learning model to recommend one of two tariffs, "Smart" or "Ultra," for customers of the mobile operator "Megaline." The company has identified that many clients are still using outdated tariffs, and they aim to analyze customer behavior to suggest a new tariff plan. The data provided includes customer behavior for those who have already switched to these new tariffs. Task is to build a classification model that maximizes accuracy, achieving at least 0.75 on the test set.
 
 ## Data Description
 
